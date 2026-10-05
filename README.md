@@ -18,7 +18,7 @@ UNBEATABLE의 영문 기반 한국어 패치입니다. **1.0 정식 릴리즈**�
 ## 설치 방법
 
 1. 게임을 종료합니다.
-2. [릴리즈 페이지](https://github.com/jjpatch12/unbeatable-korean-patch/releases/latest)에서 `UNBEATABLE_한국어패치_1.0.exe`를 다운로드하고 실행합니다.
+2. [릴리즈 페이지](https://github.com/jjpatch12/unbeatable-korean-patch/releases/latest)에서 `UNBEATABLE_Korean_Patch_1.0.exe`를 다운로드하고 실행합니다.
 3. `UNBEATABLE.exe`가 있는 게임 폴더를 선택합니다. `UNBEATABLE_Data` 폴더의 상위 폴더입니다.
 4. **게임 폴더 검사**를 누른 뒤 **한국어 패치 적용**을 누릅니다.
 5. 게임을 실행하고 언어를 **English**로 설정합니다.
@@ -44,7 +44,7 @@ Windows 64비트용 설치 프로그램이며 .NET 런타임이 포함되어 있
 릴리즈에 첨부된 `SHA256.txt`와 다운로드한 EXE의 SHA-256을 비교할 수 있습니다.
 
 ```text
-3aae0dfbeb8a82a800fe935f3a2ea0475f4ec56838bc895f07f14c789ba379c6  UNBEATABLE_한국어패치_1.0.exe
+3aae0dfbeb8a82a800fe935f3a2ea0475f4ec56838bc895f07f14c789ba379c6  UNBEATABLE_Korean_Patch_1.0.exe
 ```
 
 ## 문제 제보
